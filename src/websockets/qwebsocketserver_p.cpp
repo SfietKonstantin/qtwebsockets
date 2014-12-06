@@ -51,6 +51,7 @@
 #include "qwebsocket_p.h"
 #include "qwebsocketcorsauthenticator.h"
 
+#include <QtCore/QStringList>
 #include <QtNetwork/QTcpServer>
 #include <QtNetwork/QTcpSocket>
 #include <QtNetwork/QNetworkProxy>
